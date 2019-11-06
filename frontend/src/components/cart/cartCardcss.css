@@ -1,0 +1,30 @@
+#indCard{
+    margin-left: 300px;
+    margin-top: 30px;
+}
+#cardwidth{
+    max-width: 900px;
+}
+#item-price{
+    float: left;
+    margin-right: 100px;
+}
+
+#item-quantity{
+    float: left;
+    margin-right: 100px;
+}
+#item-delete{
+    float: right;
+}
+
+#placeorder{
+    float: right;
+    margin-top: 100px;
+    margin-right: 350px;
+}
+
+ #carttotal{
+    /* float: right;*/
+    margin-top: 0px; 
+} 

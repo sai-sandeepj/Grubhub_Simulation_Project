@@ -1,0 +1,45 @@
+#past-orders{
+    margin-left: 300px;
+    margin-top: 50px;
+    /* max-width: 18rem; */
+}
+
+.modal-popup{
+    max-width: 50%;
+    overflow: hidden;
+    height: 80%;
+    background-color: black;
+}
+/* .modal-popup:hover{
+    overflow-y: auto;
+} */
+
+#message-orders-customer{
+    margin-left: 300px;
+    margin-top: 0px;
+    /* max-width: 18rem; */
+}
+
+#message-orders-owner{
+    margin-top: 30px;
+    /* max-width: 18rem; */
+}
+
+#item-name{
+    /* float: left; */
+    margin-right: 50px;
+}
+
+#item-price{
+    float: left;
+    margin-right: 50px;
+    /* margin-left: 70px; */
+}
+
+#item-quantity{
+    float: left;
+    margin-right: 50px;
+}
+#item-Total{
+    margin-right: 50px;
+}
