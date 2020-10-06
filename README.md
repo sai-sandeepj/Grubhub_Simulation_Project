@@ -1,9 +1,46 @@
-### Technology Stack used: MERN Stack
-#### 1. React (Client)
-#### 2. Redux (State Management)
-#### 3. MongoDB (Database)
-#### 4. NodeJS (Server)
-#### 5. Kafka Message Queues
+### Technology Stack - [MERN]
+MongoDB |
+ExpressJS |
+ReactJS |
+Node.js |
+Redux |
+JWT |
+Apache Kafka
 
+### Steps to run the application
+#### Frontend
+```sh
+$ cd frontend
+$ npm install
+$ npm start
+```
+#### Backend
+```sh
+$ cd backend
+$ npm install
+$ node index.js
+```
+#### Kafka
+```sh
+$ cd kafka-backend 
+$ npm install
+$ node server.js
+```
 
-#### Note: Steps to run each module is mentioned in the README file in the particular module.
+### Application Screenshots
+#### 1. Login Page
+![](images/login.png)
+
+#### 2. Signup Page
+![](images/signup.png)
+
+#### 2. Profile Page
+![](images/owner_profile.png)
+
+#### 3. Customer Home pages
+![](images/home.png)
+![](images/customer_home.png)
+
+#### 4. Owner Home pages
+![](images/owner_home.png)
+![](images/owner_orders.png)
