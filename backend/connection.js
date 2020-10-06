@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 const URI =
-  "mongodb+srv://sandeep:7777@sandeep-bpru9.mongodb.net/test?retryWrites=true&w=majority";
+  "";
 
 const connectDB = async () => {
   try {
