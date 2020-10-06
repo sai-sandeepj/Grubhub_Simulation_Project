@@ -1,3 +1,5 @@
+# Grubhub WebApp Prototype
+
 ### Technology Stack - [MERN]
 MongoDB |
 ExpressJS |
