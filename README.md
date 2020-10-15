@@ -1,5 +1,7 @@
 # Grubhub WebApp Prototype
 
+[Repo Link to GraphQL version of the prototype](https://github.com/sai-sandeepj/Grubhub-Prototype-using-GraphQL)
+
 ### Technology Stack - [MERN]
 MongoDB |
 ExpressJS |
